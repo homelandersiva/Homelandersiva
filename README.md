@@ -1,70 +1,68 @@
 <h1 align="center">👋 Hey, I'm Siva</h1>
 
-<h3 align="center">🚀 Developer | 🤖 ML Explorer | 🔍 Research & Analytics Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Developer | 📱 Mobile App Developer | 💻 Software Builder</h3>
 
 ---
 
 ### 🌟 About Me  
 
-💡 I love exploring how technology, data, and AI can solve real-world problems.  
-📚 Currently learning **Machine Learning & Data Analytics**  
-🤝 Open to collaborating on **web apps, ML projects, research tools, dashboards & AI ideas**  
-🎯 Goal: Build scalable products that actually make impact  
+💡 I love building real-world applications that solve meaningful problems.  
+🛠 I work mainly with **MERN Stack, React Native & Spring Boot**  
+🤝 Open to collaborating on **web apps, mobile apps & backend-driven platforms**  
+🎯 Goal: Build scalable, user-friendly and production-ready software  
 📷 Reach me on Instagram: **[@homelandersiva](https://instagram.com/homelandersiva)**  
 
 ---
 
-### 🔬 What I’m Interested In  
-✔ Machine Learning & Deep Learning  
-✔ Data Analytics & Visualization  
-✔ MERN Stack Development  
-✔ Mobile App Development  
-✔ Research-based Apps & Tools  
+### 🔥 What I Work On  
+
+✔ Full-stack web development  
+✔ Mobile app development (React Native)  
+✔ REST APIs & backend systems  
+✔ Practical, real-world projects & products  
 
 ---
 
-### 🛠 Tech Stack (Growing Every Day 🚀)
+### 🛠 Tech Stack  
 
 **Languages:**  
-`JavaScript` `Python` `TypeScript`
+`JavaScript` `TypeScript` `Java`
 
-**Web / App Dev:**  
-`React` `Node.js` `Express` `MongoDB` `React Native`
+**Web / App Development:**  
+`React` `Node.js` `Express` `MongoDB`  
+`React Native` `Spring Boot`
 
-**ML / Data:**  
-`Pandas` `NumPy` `Matplotlib` `Scikit-learn`
-
-**Other Stuff I Use:**  
+**Tools I Use:**  
 `Git` `VS Code` `Postman` `Linux`
 
 ---
 
-### 📈 Current Focus
-🌱 Learning **Machine Learning & Model Building**  
-🧠 Improving **problem solving & logical thinking**  
-🔍 Working on **projects that make me uncomfortable (that’s how I grow 😄)**  
+### 📈 Current Focus  
+
+🌱 Getting better at **scalable backend & clean architecture**  
+🧠 Improving **UI/UX & real-world problem-solving**  
+🚀 Building **full-stack products from scratch**
 
 ---
 
-### 🤝 Collaboration?
-If you have an idea — **let’s build it together!**
+### 🤝 Collaboration?  
 
-💬 Ping me for:  
-✔ ML / AI Experiments  
-✔ Web & Mobile Projects  
-✔ Research-based Applications  
-✔ Student Project Guidance  
+If you’ve got an idea — **let’s build it!**
 
----
-
-### ⚡ Fun Fact
-I believe **technology + curiosity + consistency = magic ✨**
+💬 Message me for:  
+✔ Web & Mobile App Development  
+✔ MERN / React Native / Spring Boot Projects  
+✔ Student / Startup Project Development  
+✔ Backend & API-driven applications  
 
 ---
 
-### 📩 Let’s Connect
+### ⚡ Fun Fact  
+
+I believe **consistency + curiosity + code = growth 🚀**
+
+---
+
  
-
----
 
 ⭐️ *Thanks for visiting — feel free to star a repo or drop a message!*  
